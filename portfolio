@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mohammad Nihal Portfolio</title>
+    <style>
+        html{
+            scroll-behavior: smooth;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #fae7ba;
+        }
+        nav {
+            background-color: #34495e;
+            padding: 10px;
+            text-align: center;
+            position: sticky;
+            top:0 ;
+            
+        }
+
+        nav a {
+            color: white;
+            margin: 10px;
+            text-decoration: none;
+            font-weight: bold;
+            
+        }
+
+        nav a:hover {
+            color: #f1c40f;
+        }
+        header {
+            background-color: #2c3e50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            margin: 10px;
+            background: white;
+        }
+        h2 {
+            color: #2c3e50;
+        }
+        ul {
+            line-height: 1.8;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background: #2c3e50;
+            color: white;
+            position: sticky;
+            bottom: 0%;
+        }
+
+    </style>
+</head>
+<body>
+
+<header>
+    <h1 id="home">Mohammad Nihal Mohammad Rafi Shaikh</h1>
+    <p>BCA Student | Somaiya Vidyavihar University</p>
+    <img src="My Img.jpg" width="200" style="display: block;margin-left: auto;margin-right: auto;">
+</header>
+<nav>
+  
+    <a href="#about">About</a>
+    <a href="#education">Education</a>
+    <a href="#certification">Certifications</a>
+    <a href="#achievements">Achievements</a>
+    <a href="#projects">Projects</a>
+    <a href="#skills">Skills</a>
+    <a href="#subjects">Subjects</a>
+    <a href="#extra">Activities</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+    <h2>About Me</h2>
+    <p>
+        I am Mohammad Nihal Mohammad Rafi Shaikh, a 19-year-old student from Mumbai, born on 5th December 2006. 
+        I am currently pursuing my First Year Bachelor of Computer Applications (BCA) at Somaiya School of Basic 
+        and Applied Sciences under Somaiya Vidyavihar University. I am passionate about learning new technologies 
+        and continuously improving my skills. I enjoy reading books, playing chess, and exploring new concepts in 
+        the field of computer science.
+    </p>
+</section>
+
+<section id="education">
+    <h2>Education & Qualifications</h2>
+    <ul>
+        <li><b>BCA (FY)</b> – Somaiya School of Basic and Applied Sciences</li>
+        <li><b>HSC:</b> 88.50% – Swami Ramkrishna Paramhans Jr. College</li>
+        <li><b>SSC:</b> 73.40% – Mar Thoma School Maharashtra (2023)</li>
+    </ul>
+</section>
+
+<section id="certification">
+    <h2>Certifications</h2>
+    <ul>
+        <li>MS-CIT</li>
+        <li>Basic Graphic Designing</li>
+        <li>English Olympiad</li>
+    </ul>
+</section>
+
+<section id="achievements">
+    <h2>Achievements</h2>
+    <ul>
+        <li>1st Rank in Tug of War (Sports)</li>
+        <li>1st Rank in 11th Standard (Commerce Department)</li>
+    </ul>
+</section>
+
+<section id="projects">
+    <h2>Projects</h2>
+    <ul>
+        <li>
+            <b>ATM System (C Language)</b><br>
+            Developed a basic ATM simulation system using Turbo C that performs operations like withdrawal, deposit, and balance checking.
+        </li>
+    </ul>
+</section>
+
+<section id="skills">
+    <h2>Skills</h2>
+    <ul>
+        <li>C Programming</li>
+        <li>Basic Java</li>
+        <li>Web Designing (HTML)</li>
+        <li>Communication Skills</li>
+        <li>Problem Solving</li>
+    </ul>
+</section>
+
+<section id="subjects">
+    <h2>Subjects / Syllabus</h2>
+    <p><b>Semester 1:</b></p>
+    <ul>
+        <li>Principles of Algorithm and Programming</li>
+        <li>Digital Computer Fundamentals</li>
+        <li>Organizational Behaviour</li>
+        <li>Discrete Structures</li>
+        <li>Professional Communication Skills - 1</li>
+        <li>Minor in IoT</li>
+        <li>Spanish Language (Basket Course)</li>
+    </ul>
+
+    <p><b>Semester 2:</b></p>
+    <ul>
+        <li>Java</li>
+        <li>Web Designing</li>
+        <li>Computer Animation</li>
+        <li>Optimization Techniques</li>
+        <li>Indian Knowledge System</li>
+        <li>Professional Communication Skills - 2</li>
+        <li>Minor in IoT</li>
+        <li>Nature Basket Course</li>
+    </ul>
+</section>
+
+<section id="extra">
+    <h2>Extra-Curricular Activities & Hobbies</h2>
+    <ul>
+        <li>Reading Books</li>
+        <li>Playing Chess</li>
+        <li>Learning New Skills</li>
+        <li>Sports Participation</li>
+    </ul>
+</section>
+
+<section id="contact">
+    <h2>Contact</h2>
+    <ul>
+        <li>Email: <a href="mailto:nihalshaikh252@gmail.com">nihalshaikh252@gmail.com</a></li>
+        <li>Student Email: <a href="mailto:mohammadnihal.s@somaiya.edu">mohammadnihal.s@somaiya.edu</a></li>
+        <li>Instagram: <a href="https://www.instagram.com/nihal_._.5?igsh=MWVzOThic2F0dXBrag==" class="btn instagram">nihal_._.5</a></li>
+        <li>Linkedin: <a href="https://www.linkedin.com/in/nihal-shaikh-19b6b23b8?utm_source=share_via&utm_content=profile&utm_medium=member_ios" class="btn linkedin">Nihal Shaikh</a></li>
+    </ul>
+</section>
+
+<footer>
+    <nav>
+        <a href="#home">Back to home</a>
+    </nav>
+    <p>@ Mohammad Nihal Shaikh </p>
+</footer>
+
+</body>
+</html>
